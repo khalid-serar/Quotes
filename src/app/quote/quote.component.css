@@ -1,7 +1,7 @@
 button {
     align-self: center;
     align-items: center;
-    color: #00ff;
+    color: rgb(7, 7, 7);
 }
 .description{
     padding-top: 3%;
@@ -12,5 +12,5 @@ button {
 }
 .dec{
     background-color:coral;
-    color: blue;
+    color: rgb(6, 6, 7);
 }
