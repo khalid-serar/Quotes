@@ -8,9 +8,9 @@ import { Quote} from '../quote'
 export class QuoteComponent implements OnInit {
 
    quotes: any[] = [
-   new Quote(1,'Failure','Do not be embarassed by your failures,lern from them and start again', 'Richard Branson', new Date(2021,9,11), 0,0),
+   new Quote(1,'Failure','Hardwork pays', 'khalid serar', new Date(2021,9,11), 0,0),
    new Quote(2, "Faith", "Faith is taking the first step. Even when you don't see the whole stairs", 'Martin Luther King', new Date(2021,9,11), 0,0),
-   new Quote(3,'Change', 'Any change, even a change for the better, is always accompanied by discomfort', 'Arnold Bennett', new Date(2021,9,11), 0,0)
+   new Quote(3,'Change', 'Any change, even a change for the better, is always accompanied by discomfort', 'john Doe', new Date(2021,9,11), 0,0)
 
  ]
 
